@@ -1,5 +1,5 @@
 *-----------------------------------------------------------
-* Title      : Assignment 2 - Bitmap Subroutine
+* Title      :  Bitmap Subroutine
 * Written by : Dylan Aron
 * Date       : 9/26/22
 * Description: Subroutine that reads a 32 bit bitmap and draws it to the output window based on parameters for x/y bmp chunking,
